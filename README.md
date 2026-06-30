@@ -38,8 +38,9 @@ DNS, en basit tabirle ağın **"Telefon Rehberi"**dir. Bilgisayarlar kelimelerde
 ##  Ağ Topolojisi
 Kurduğumuz ağın son hali şu şekildedir:
 
-![Ağ Topolojisi](ag_topoloji.png)
-*(Topolojinin eksiksiz ve yeşil bağlantılı ekran görüntüsü)*
+<img width="1008" height="415" alt="ag_topoloji" src="https://github.com/user-attachments/assets/f45a56de-1920-4c39-8018-6dfc8d7b37e2" />
+*Topolojinin eksiksiz ve yeşil bağlantılı ekran görüntüsü.*
+
 
 ##  Adım Adım Kurulum
 
@@ -57,7 +58,9 @@ Kurduğumuz ağın son hali şu şekildedir:
 ### Adım 3: DHCP Yapılandırması ve Doğrulama
 Bağlantılar tamamlandıktan sonra cihazların IP ayarları yapılandırıldı. Komut satırından `ipconfig /all` komutu ve web tarayıcısı üzerinden bağlantılar test edildi.
 
-![IP Config Çıktısı](ip_config.png)
+<img width="862" height="427" alt="ip_config" src="https://github.com/user-attachments/assets/eec7b563-7869-459c-8423-26fa4d05b501" />
+*Laptop İçin ıp config görüntüsü*
+
 
 ##  Karşılaşılan Sorunlar ve Çözümleri
 
